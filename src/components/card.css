@@ -1,0 +1,14 @@
+.imageDivStyle {
+    height: 300px;
+    width: 300px;
+    display: block;
+    background-color: black;
+}
+
+.cardStyle {
+    max-height: 20%;
+    max-width: 20%;
+    display: block;
+    border: 1px solid black;
+    margin: 15px;
+}
